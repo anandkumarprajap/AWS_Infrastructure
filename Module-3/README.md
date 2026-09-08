@@ -1,4 +1,11 @@
 # ☁️ AWS Account Setup — Beginner to DevOps Ready
+---
+- Complete AWS account setup with root user configuration
+- Enable MFA on root account
+- Set up billing alarms ($5 and $10 thresholds)
+- Explore AWS Console (Services, Dashboard, Settings)
+- Review Shared Responsibility Model documentation.
+---
 
 A practical step-by-step guide for setting up, securing, and exploring an **AWS account** for Cloud and DevOps learning.
 
