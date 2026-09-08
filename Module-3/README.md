@@ -231,6 +231,11 @@ If MFA is required during login, it has been successfully enabled.
 
 # 5. Create Billing Alerts
 
+![Image 1](1.png)
+![Image 2](2.png)
+![Image 3](3.png)
+![Image 4](4.png)
+
 For a learning account, create billing budgets/alerts to detect unexpected spending.
 
 Example:
