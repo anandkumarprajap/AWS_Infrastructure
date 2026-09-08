@@ -1,6 +1,6 @@
 # ☁️ AWS Cloud Computing Fundamentals
 
-![Image 1](1.png)
+![Image 2](2.png)
 
 A beginner-friendly guide to **Cloud Computing, IaaS, PaaS, SaaS, and core AWS services**.
 
