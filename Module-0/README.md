@@ -1,4 +1,6 @@
-# AWS Platform Engineering Architect – Easy Notes
+# AWS Platform Engineering Architect –
+
+![Image 1](1.png)
 
 ## 1. My Role as a Platform Engineering Architect
 
