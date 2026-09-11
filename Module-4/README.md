@@ -335,4 +335,3 @@ This approach makes AWS IAM **more organized, scalable, and easier to manage**.
 ![Image 33](33.png)
 ![Image 34](34.png)
 ![Image 35](35.png)
-![Image 36](36.png)
