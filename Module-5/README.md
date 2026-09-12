@@ -1,8 +1,14 @@
 # AWS IAM – Access Management Hands-On Lab
 
+## MFA
 ![Image 1](1.png)
 ![Image 2](2.png)
 ![Image 3](3.png)
+
+---
+AWS Root User , IAM Users, IAM Groups, IAM Policies, IAM Roles, JSON Policies, EC2-specific permissions, S3 access, 
+AWS CLI authentication, Least Privilege, Permission testing .
+---
 ![Image 4](4.png)
 ![Image 5](5.png)
 ![Image 6](6.png)
