@@ -9,3 +9,12 @@
 - Explore AWS Console (Services, Dashboard, Settings)
 - Review Shared Responsibility Model documentation.
 ```
+## Module-4 , Module-5
+```text
+- Create and manage multiple IAM users
+- Create IAM groups and assign users to groups
+- Create custom IAM policies with JSON
+- Implement least privilege access patterns
+- Set up MFA for all IAM users
+- Document IAM architecture
+```
