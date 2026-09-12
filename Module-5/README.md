@@ -9,7 +9,6 @@
 ![Image 7](7.png)
 ![Image 8](8.png)
 ![Image 9](9.png)
-![Image 10](10.png)
 ![Image 11](11.png)
 ![Image 12](12.png)
 ![Image 13](13.png)
