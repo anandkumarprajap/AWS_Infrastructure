@@ -18,3 +18,12 @@
 - Set up MFA for all IAM users
 - Document IAM architecture
 ```
+## Module-6
+```text
+-Create IAM roles for EC2 instances
+-Attach instance profiles to EC2 instances
+-Practice cross-account role assumption
+-Set up temporary credentials with STS
+-Test role-based access patterns
+-Document role architecture
+```
