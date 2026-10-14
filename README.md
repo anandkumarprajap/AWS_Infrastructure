@@ -1,6 +1,8 @@
 # AWS_Infrastructure
 “Production-oriented AWS architecture demonstrating scalability, high availability, security, monitoring, disaster recovery, and cost optimization. Shows how services such as Route 53, CloudFront, ALB, EC2, S3, RDS, Lambda, VPC, IAM, KMS, CloudWatch, CloudTrail, SNS, and AWS Backup work together.”
 
+# AWS Fundamentals & Account Setup
+
 ## Module-0 , Module-1 , Module-3
 ```text
 - Complete AWS account setup with root user configuration
@@ -18,6 +20,9 @@
 - Set up MFA for all IAM users
 - Document IAM architecture
 ```
+
+# IAM & Access Management
+
 ## Module-6
 ```text
 -Create IAM roles for EC2 instances
@@ -27,7 +32,7 @@
 -Test role-based access patterns
 -Document role architecture
 ```
-Module-7
+## Module-7
 ```text
 - Set up AWS Organizations
 - Create Organizational Units
