@@ -19,7 +19,9 @@ This file contains the sequential markdown image references for all 83 pages of 
 
 ## Page 6
 ![Image 6](6.png)
-
+```txt
+click create new
+```
 ## Page 7
 ![Image 7](7.png)
 
