@@ -36,6 +36,9 @@ click create new
 
 ## Page 11
 ![Image 11](11.png)
+```txt
+click create service policies
+```
 
 ## Page 12
 ![Image 12](12.png)
