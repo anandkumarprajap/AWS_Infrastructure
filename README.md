@@ -27,3 +27,12 @@
 -Test role-based access patterns
 -Document role architecture
 ```
+Module-7
+```text
+- Set up AWS Organizations
+- Create Organizational Units
+- Implement SCPs as guardrails
+- Configure IAM Identity Center
+- Test cross-account access
+- Document organizational structure
+```
