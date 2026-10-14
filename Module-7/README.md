@@ -37,7 +37,7 @@ click create new
 ## Page 11
 ![Image 11](11.png)
 ```txt
-click create service policies
+click service control policies
 ```
 
 ## Page 12
