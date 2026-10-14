@@ -40,6 +40,10 @@ click create new
 ## Page 12
 ![Image 12](12.png)
 
+```txt
+create policy
+```
+
 ## Page 13
 ![Image 13](13.png)
 
